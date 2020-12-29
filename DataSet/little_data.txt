@@ -1,5 +1,0 @@
-(def-instance Adelphi
-   (state chicago)
-)
-(def-instance Adelphi   
-   ( 
