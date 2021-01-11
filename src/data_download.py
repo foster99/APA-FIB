@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+
+# Autores:
+#  Edgar Perez Blanco
+#  Bartomeu Perello Comas
+
 import urllib.request
 import os
 
